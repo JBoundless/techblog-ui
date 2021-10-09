@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "What's New in React?",
+    "img": "https://static.frontendmasters.com/assets/courses/2015-05-08-react-intro-to-flux/thumb.webp",
+    "content": "The latest news from ReactWorld 2021",
+    "date": "1-04-2021",
+    "slug": "new-react"
+  },
+  {
+    "id": 2,
+    "title": "Is Inline CSS Better?",
+    "img": "https://5.imimg.com/data5/QU/CZ/YZ/SELLER-79364292/css-development-service-500x500.jpg",
+    "content": "A heated debate over the simplicity of CSS",
+    "date": "12-21-2020",
+    "slug": "css-debate"
+  },
+  {
+    "id": 3,
+    "title": "Best Mobile Development Languages: Ranked",
+    "img": "https://static.frontendmasters.com/resources/2020-03-06-react-native-v2/thumb.jpg",
+    "content": "Which language works best for you?",
+    "date": "1-26-2019",
+    "slug": "mobile-dev-ranked"
+  }
+]
